@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQHG6OneUiVwKw/profile-displaybackgroundimage-shrink_350_1400/0/1702603303798?e=1712793600&v=beta&t=LR_zACdMA935hLp0RVK9j3B8QvzDfyckhL6Ee4Fm5j0)
+
 <h1 align="center">Hi , I'm Şükrü Güngör</h1>
 <h3 align="center">An innovative full-stack developer dedicated to creating seamless user experiences across all platforms.</h3>
 
